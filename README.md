@@ -1,4 +1,4 @@
-# Tits++
+# TITS++
 
 Two beautiful tits written on C++
 
